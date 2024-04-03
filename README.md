@@ -1,6 +1,6 @@
 # Bookings and Reservations
 
-This is the repository for my bookings and reservations project from the Go web applications course
+This is the repository for my bookings and reservations project from the Go web applications course on Udemy.
 
 - Built in Go version 1.26
 - use the [chi router](github.com/go-chi/chi)
